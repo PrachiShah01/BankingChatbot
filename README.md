@@ -8,4 +8,4 @@ Amazon Lex provides pre-built integration with AWS Lambda, you can also integrat
 
 In my project, I have built Banking chatbot which responses the general queries regarding account, loan, debit/credit cards etc.
 
-I have attached the .py files for lambda function.
+I have attached the text files in which code for lambda function is written.
